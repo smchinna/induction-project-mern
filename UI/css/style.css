@@ -1,0 +1,125 @@
+
+.form-group{
+    background-color: rgb(96, 193, 148);
+    border-radius: 5px;
+    margin-top: 25vh;
+    font-size: 2vh;
+}
+.pt{
+    padding: 8px;
+}
+.read-file{
+    margin-top: 3%
+}
+textarea{
+    width: 100%;
+    height: 129px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
+.card{
+    border: 1px solid lightgray;
+    margin: 8%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px; 
+}
+.card-img-top{
+    width: 100%;
+    height: 100%;
+}
+.card-header{
+    height: 40px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    background-color: rgb(123, 166, 194);
+}
+.card-block{
+    height: 40px;
+    padding: 10px;
+    border-top: 1px solid lightgray;
+    background-color: rgb(123, 166, 194);
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.margin{
+    margin-top: 75px;
+}
+.padding{
+    padding-top: 5%;
+}
+.image{
+    height:140px;
+    padding:5px;
+}
+.border{
+    border: 1px solid lightgray;
+}
+.home{
+    background-color:rgb(202, 197, 199);
+    width:100vw;
+    height: 98vh;
+}
+.margin-top{
+    margin-top: 5px;
+}
+
+.panel{
+    height:20px;
+}
+.align-button{
+    margin:15px;
+    font-size: 25px;
+}
+span{
+    color: red;
+}
+.tab{
+    background-color: lawngreen;
+    color:white;
+    font-size: 20px;
+}
+
+body{
+    cursor: pointer;
+}
+.header{
+    background-color: #2f2b63;
+    color:white;
+    height: 50px;
+    padding:5px;
+    margin-top:8px;
+}
+
+.admin-image{
+    height: 100%;
+    width:100%
+}
+.admin{
+    background-color: white;
+    height: 100% !important;
+}
+.office-text{
+    text-align:center;
+    font-size: 2vw;
+}
+.body-image{
+    height: 90vh;
+    margin: 10px;
+}
+.form-control{
+    font-size: 18px;
+}
+.paginate-margin{
+    margin-top: 15px;
+}
+h4{
+    margin-top: 22px;
+}
+.image-margin{
+ margin-top: 44px;
+}
