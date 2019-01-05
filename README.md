@@ -3,7 +3,7 @@
 Intoruduction:
 
   This project is represented by Managing issues using Web App.
-  A user an create an issues ticket. Admin can only to see all issues.
+  A user can create an issue-ticket. Admin can only to see all issues.
   User can able to see only your's tickets.
   If it's issues is solved Admin to change the status of ticket. 
   
